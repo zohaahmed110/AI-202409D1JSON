@@ -1,0 +1,25 @@
+[
+{
+    "id":1 ,
+    "name":"NikeAQ34",
+    "price" : 15000 , 
+    "description" : "HELLO",
+    "qty" : 45 ,
+    "image" : "images/n1.png"
+},
+{
+    "id":2 ,
+    "name":"NikeFQ35",
+    "price" : 20000 ,
+    "description" :"HELLO",
+    "qty" : 65 ,
+    "image" : "images/n1.png"
+},
+{
+    "id":3 ,
+    "name": "nikeSY36",
+    "price" :25000 ,
+    "description" :"HELLO",
+    "qty" : 21
+}
+]

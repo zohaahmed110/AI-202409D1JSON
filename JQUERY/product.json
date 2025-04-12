@@ -1,0 +1,10 @@
+{
+    "studentId" : "student1234567545" ,
+    "studentName" : "ali" ,
+    "studentAge" : 21 ,
+    "studentNic" : true,
+    "studentHobbies" : ["reading" ,"coding"],
+    "studentAddress" : {"karachi" : "saddar Town",
+    "Lahore" : "Gulshan"}
+    
+}
